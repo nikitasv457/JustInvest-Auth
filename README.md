@@ -1,6 +1,6 @@
 # JustInvest-Auth
 
-## JustInvest-Auth is a secure authentication system designed to control access to financial services based on user roles. It ensures that users (admins, investors, or guests), have the appropriate access permissions. The system uses SHA-256 hashing for secure logins, role-based access control (RBAC) to enforce permissions, and strong password management to protect user credentials.
+### JustInvest-Auth is a secure authentication system designed to control access to financial services based on user roles. It ensures that users (admins, investors, or guests), have the appropriate access permissions. The system uses SHA-256 hashing for secure logins, role-based access control (RBAC) to enforce permissions, and strong password management to protect user credentials.
 
 ## Intallation
 
